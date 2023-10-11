@@ -1,5 +1,5 @@
-# ExperimentoArduino-1
-MANIPULANDO UM LED Objetivos: 
+# MANIPULANDO UM LED 
+Objetivos: 
 
 - Perceber a equivalência de um diagrama de blocos e um código. 
 - Familiarizar-se com o ambiente de programação do Arduino. 
