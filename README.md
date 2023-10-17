@@ -20,4 +20,4 @@ Lista de componentes:
 - 1 Resistor de 220 Ω ohms; 
 - 3 Jumpers (macho-macho).
 
-![esquema lógico](Arduino.png)
+![esquema lógico](Arduino-ManipulandoUmLed.png)
